@@ -1,4 +1,4 @@
-banana operations.\\
+banana operations.\n
 example:
 ```python
 from Bunch.Bunch import Bunch as b

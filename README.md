@@ -1,5 +1,4 @@
-Bunch is a library for operations on bananas.
-
+banana operations.
 example:
 ```python
 from Bunch import Bunch as b
